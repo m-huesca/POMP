@@ -1,7 +1,7 @@
 
 # POMP: Proof of Mentorship Protocol
 
-##ETHBogota
+## ETHBogota
 
 Gated platform to connect community members who are open to mentoring other members based on specific topics and skills. 
 
